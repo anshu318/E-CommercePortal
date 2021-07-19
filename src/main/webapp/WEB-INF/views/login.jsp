@@ -7,6 +7,10 @@
 <html>
     <head>
         <title>Retail Product Management</title>
+        <link rel="icon"
+			href="https://cdn.icon-icons.com/icons2/2389/PNG/512/shopify_logo_icon_144894.png"
+			type="image/x-icon">
+		
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

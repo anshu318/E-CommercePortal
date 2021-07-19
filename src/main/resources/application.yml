@@ -4,7 +4,7 @@ spring:
     name: E-Commerce-Portal
   
 server:
-  port: 5004
+  port: 8080
 
 eureka:
   instance:

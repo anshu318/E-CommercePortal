@@ -9,9 +9,9 @@
 <html lang="en">
 <head>
 <title>Retail Product Management</title>
-<link rel="icon"
-	href="https://cdn.icon-icons.com/icons2/2389/PNG/512/shopify_logo_icon_144894.png"
-	type="image/x-icon">
+ <link rel="icon"
+			href="https://cdn.icon-icons.com/icons2/2389/PNG/512/shopify_logo_icon_144894.png"
+			type="image/x-icon">
 <style>
 html, body {
 	height: 100%;

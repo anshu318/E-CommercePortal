@@ -34,7 +34,7 @@ public class CustomErrorController implements ErrorController {
 			m.addAttribute("errorDto", dto);
 			return "PageNotFound";
 		}
-		if (exception.getMessage().isBlank() || exception.getMessage().isEmpty()) {
+		if (/*exception.getMessage().isBlank() || */exception.getMessage().isEmpty()) {
 			ErrorResponseDto dto = new ErrorResponseDto(new Date(), exception.getRawStatusCode(),
 					HttpStatus.NOT_FOUND.getReasonPhrase(), "Unauthorized Access!!", request.getRequestURI());
 			m.addAttribute("errorDto", dto);
